@@ -25,8 +25,6 @@ In C++, inheritance comes in different types, each with unique characteristics a
 
 ### **Types of Inheritance in C++:**
 
-![Inheritance Types](https://github.com/user-attachments/assets/4020271e-f6bf-47c1-a554-6810f070c1bb)
-
 1. **Single Inheritance**  
    In single inheritance, a class inherits from only one parent class. The derived class inherits all the properties and methods from the base class.
 
